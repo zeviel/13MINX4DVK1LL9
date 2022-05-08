@@ -1,4 +1,4 @@
-# AminoAdvKilla
+# 13MINX4DVK1LL9
 Global advertise bot for amino
 
 ## Termux
@@ -7,7 +7,7 @@ Global advertise bot for amino
 - apt upgrade -y
 - pkg install python
 - pip install amino
-- git clone https://github.com/deluvsushi/AminoAdvKilla
-- cd AminoAdvKilla
-- python AminoAdvKilla.py
+- git clone https://github.com/deluvsushi/13MINX4DVK1LL9
+- cd 13MINX4DVK1LL9
+- python 13MINX4DVK1LL9.py
 ```
