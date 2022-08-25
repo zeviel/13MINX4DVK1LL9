@@ -1,7 +1,7 @@
 import amino
 from concurrent.futures import ThreadPoolExecutor
-print("""Script by deluvsushi
-Github : https://github.com/deluvsushi
+print("""Script by zeviel
+Github : https://github.com/zeviel
 ╱╭╮╭━━━┳━╮╭━┳━━┳━╮╱╭┳━╮╭━┳╮╱╭┳━━━┳╮╱╱╭┳╮╭━╮╭╮╭╮╱╱╭╮╱╱╭━━━╮
 ╭╯┃┃╭━╮┃┃╰╯┃┣┫┣┫┃╰╮┃┣╮╰╯╭┫┃╱┃┣╮╭╮┃╰╮╭╯┃┃┃╭╋╯┃┃┃╱╱┃┃╱╱┃╭━╮┃
 ╰╮┃╰╯╭╯┃╭╮╭╮┃┃┃┃╭╮╰╯┃╰╮╭╯┃╰━╯┃┃┃┃┣╮┃┃╭┫╰╯╯╰╮┃┃┃╱╱┃┃╱╱┃╰━╯┃
